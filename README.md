@@ -38,7 +38,7 @@ This is basically [Luke Smith's st build](https://github.com/LukeSmithxyz/st) wi
 You should have xlib header files and libharfbuzz build files installed.
 
 ```
-git clone https://github.com/LukeSmithxyz/st
+git clone https://github.com/dariolbs/st
 cd st
 sudo make install
 ```
@@ -82,7 +82,3 @@ To be clear about the color settings:
 
 Note that when you run `wal`, it will negate the transparency of existing windows, but new windows will continue with the previously defined transparency.
 
-## Contact
-
-- Luke Smith <luke@lukesmith.xyz>
-- [https://lukesmith.xyz](https://lukesmith.xyz)
